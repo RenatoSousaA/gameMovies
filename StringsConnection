@@ -1,0 +1,7 @@
+"DefaultConnection" : "Server=localhost;DataBase=ApiCatalogoDB;Uid=root;Pwd=admin123"
+
+Server=db10648.public.databaseasp.net;DataBase=db10648;Uid=db10648_admin;Pwd=i#7JMy+3?2hY
+
+"DefaultConnection" : "Server=db10648.databaseasp.net;DataBase=db10648;Uid=db10648;Pwd=Mk2-j5=CTo6!"
+
+Server=db10648.public.databaseasp.net; Database=db10648; User Id=db10648; Password=Mk2-j5=CTo6!; Encrypt=True; TrustServerCertificate=True; MultipleActiveResultSets=True; 
